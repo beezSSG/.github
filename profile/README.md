@@ -56,7 +56,7 @@
 #
 
 ### DevOps  
-<img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=nginx&logoColor=white"/> <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white"/>
+<img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=nginx&logoColor=white"/>
 <img src="https://img.shields.io/badge/amazonrds-527FFF?style=flat&logo=amazonrds&logoColor=white"/>
 <img src="https://img.shields.io/badge/amazons3-DD344C?style=flat&logo=amazons3&logoColor=white"/>
 <img src="https://img.shields.io/badge/Amazonaws-232F3E?style=flat&for-the-badge&logo=amazonaws&logoColor=white" /> 
