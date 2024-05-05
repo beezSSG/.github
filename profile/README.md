@@ -5,8 +5,7 @@
 
 
 ### 개발기간
-- 2024.03.11 ~ 2024.04.22
-- 총 43일
+- 2024.03.11 ~ 2024.04.22 __총 43일__
 
 --- 
 
@@ -78,4 +77,4 @@ Bee전공자들이 모인 Beez입니다!
 ---
 
 ## 협업 기록을 담은 notion
-[![Beez의 노션](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/120px-Notion-logo.svg.png)](https://www.notion.so/programming-surfer/8d8da7c0069244ad9b069277cc59076d?v=f44198a206f64cfb8b901b6ef4b51775&pvs=4)
+[![Beez의 노션](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/120px-Notion-logo.svg.png)](https://programming-surfer.notion.site/8d8da7c0069244ad9b069277cc59076d?v=f44198a206f64cfb8b901b6ef4b51775&pvs=4)
