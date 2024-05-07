@@ -19,7 +19,7 @@ Bee전공자들이 모인 Beez입니다!
 | 이록원 | 강민기 | 권지호 | 오지수 | 정원비 | 하기성 |
 | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: |
 | <img src="https://github.com/beezSSG/.github/assets/60279992/88d1979f-ce3f-44cf-a283-f646ea0adbae" width="110px"/> | <img src="https://github.com/beezSSG/.github/assets/60279992/b9907673-12be-4492-b4df-73aef4b01b24" width="110px"/> | <img src="https://github.com/beezSSG/.github/assets/60279992/0c8175ea-6958-4063-abeb-9a1aef8bdd78" width="110px"/> | <img src="https://github.com/beezSSG/.github/assets/60279992/cb9b98c7-1e4b-4727-8684-a33f05c4e17e" width="110px"/> | <img src="https://github.com/beezSSG/.github/assets/60279992/65f858fb-208a-4fa6-afe6-028f8d00b4a2" width="110px"/> | <img src="https://github.com/beezSSG/.github/assets/60279992/42c7cc32-33be-42bf-b7b5-30f4346f970d" width="110px"/> |
-| PM👑, DevOps, Full Stack | DBA / CR, Full Stack | Crawling, Full Stack | UI/UX, Full Stack | PR, Full Stack | Crawling, Full Stack |
+| PM👑<br/> DevOps<br/> Full Stack | DBA / CR<br/> Full Stack | Crawling<br/> Full Stack | UI/UX<br/> Full Stack | PR<br/> Full Stack | Crawling<br/> Full Stack |
 | 서버 설계 및 배포<br/>아키텍처 구축 | DB 관리<br/>코드 리뷰 | 상품 데이터 크롤링 및 관리 | 디자인 소스 제작<br/>디자인 컴펌<br/>프론트엔드 총괄 | 기획 자료 조사<br/>발표 | 매장 데이터 크롤링 |
 | 네이버/구글/카카오 소셜 로그인<br/>메인 홈페이지 | JWT를 활용한 로그인<br/>회원가입<br/>마이페이지<br/>PWA(Firebase기반 PUSH알림)<br/>결제시스템<br/>NaverCloud 챗봇 | 상품 목록 페이지<br/>상품 상세 페이지<br/>거리순 가까운 매장 찾기<br/>매장 재고 보기 | 메인 홈페이지<br/>NaverCloud Map API을 활용한 매장 찾기<br/>서비스 소개 | 점주 페이지<br/>점주 발주 관리 | 관리자 페이지<br/>고객센터<br/>픽업/배달 |
 
@@ -27,7 +27,7 @@ Bee전공자들이 모인 Beez입니다!
 <!-- Table -->
 |서비스|화면|
 |:--:|:--:|
-|  | <img src="https://github.com/beezSSG/.github/assets/60279992/88d1979f-ce3f-44cf-a283-f646ea0adbae" width="110px"/> |
+|  |  |
 
 <!-- Tech stack -->
 ## 기술스택
@@ -42,13 +42,17 @@ Bee전공자들이 모인 Beez입니다!
 ![Java](https://img.shields.io/badge/java_17-007396.svg?style=flat&logo=openjdk&logoColor=white)
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat&logo=Spring Security&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" /> 
-<img src="https://img.shields.io/badge/JWT-4B4B77?style=flat&logo=jsonwebtokens&logoColor=white" />
+![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat&logo=Apache%20Maven&logoColor=white)
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
 <img src="https://img.shields.io/badge/MyBatis-C4242B?style=flat&logo=mybatis&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT-4B4B77?style=flat&logo=jsonwebtokens&logoColor=white" />
 <img src="https://img.shields.io/badge/NAVER_Cloud-03C75A?style=flat&logo=naver&logoColor=white"/>
 
 ### DevOps  
+![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=flat&logo=apache-tomcat&logoColor=black)
+<img src="https://img.shields.io/badge/Github_Actions-2088FF?style=flat&logo=githubactions&logoColor=white"/> 
 <img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=nginx&logoColor=white"/> <img src="https://img.shields.io/badge/amazonrds-527FFF?style=flat&logo=amazonrds&logoColor=white"/> <img src="https://img.shields.io/badge/amazons3-DD344C?style=flat&logo=amazons3&logoColor=white"/> <img src="https://img.shields.io/badge/Amazonaws-232F3E?style=flat&logo=amazonaws&logoColor=white" /> <img src="https://img.shields.io/badge/Argo-EF7B4D?style=flat&logo=argo&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"/> 
 
 ### Tools
 ![Eclipse](https://img.shields.io/badge/Eclipse_IDE-2C2255.svg?style=flat&logo=Eclipse&logoColor=white)
