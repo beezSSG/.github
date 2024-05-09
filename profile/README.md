@@ -1,4 +1,4 @@
-## Project
+# Project
 ![pickme](https://github.com/beezSSG/.github/assets/60279992/a3ddd7a4-ba80-430e-b084-4b452b4a2b74)
 
 사용자가 직접 소비기한을 확인할 수 있고 사용자 위치 기반으로 매장 서비스를 제공하는 지능형 온라인 편의점 사이트
@@ -7,13 +7,13 @@
 
 --- 
 
-## Team
+# Team
 ![teambeez](https://github.com/beezSSG/.github/assets/60279992/f0d52b65-1f4e-4e1b-a568-fa187b19a65d)
 
 Bee전공자들이 모인 Beez입니다!
 
 
-### Teammates
+## Teammates
 | 이록원 | 강민기 | 권지호 | 오지수 | 정원비 | 하기성 |
 | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: |
 | <img src="https://github.com/beezSSG/.github/assets/60279992/88d1979f-ce3f-44cf-a283-f646ea0adbae" width="110px"/> | <img src="https://github.com/beezSSG/.github/assets/60279992/b9907673-12be-4492-b4df-73aef4b01b24" width="110px"/> | <img src="https://github.com/beezSSG/.github/assets/60279992/0c8175ea-6958-4063-abeb-9a1aef8bdd78" width="110px"/> | <img src="https://github.com/beezSSG/.github/assets/60279992/cb9b98c7-1e4b-4727-8684-a33f05c4e17e" width="110px"/> | <img src="https://github.com/beezSSG/.github/assets/60279992/65f858fb-208a-4fa6-afe6-028f8d00b4a2" width="110px"/> | <img src="https://github.com/beezSSG/.github/assets/60279992/42c7cc32-33be-42bf-b7b5-30f4346f970d" width="110px"/> |
@@ -23,7 +23,7 @@ Bee전공자들이 모인 Beez입니다!
 
 ---
 <!-- Table -->
-### Service
+# Service
 User Scenario를 생각하여 찍은 영상입니다
 
 | User Scenario | Screen clip |
@@ -43,7 +43,7 @@ User Scenario를 생각하여 찍은 영상입니다
 ---
 
 <!-- Tech stack -->
-## Tech Stack
+# Tech Stack
 
 ### Front-end  
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwindcss-06B6D4?style=flat&logo=tailwindcss&logoColor=white"/> <img src="https://img.shields.io/badge/AXIOS-5A29E4?style=flat&logo=axios&logoColor=white" /> <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=reactrouter&logoColor=white" />
@@ -51,7 +51,7 @@ User Scenario를 생각하여 찍은 영상입니다
 ![NodeJS](https://img.shields.io/badge/node.js_20-6DA55F?style=flat&logo=node.js&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34)
 
-### Back-end  
+## Back-end  
 ![Java](https://img.shields.io/badge/java_17-007396.svg?style=flat&logo=openjdk&logoColor=white)
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat&logo=Spring Security&logoColor=white" />
@@ -61,13 +61,13 @@ User Scenario를 생각하여 찍은 영상입니다
 <img src="https://img.shields.io/badge/JWT-4B4B77?style=flat&logo=jsonwebtokens&logoColor=white" />
 <img src="https://img.shields.io/badge/NAVER_Cloud-03C75A?style=flat&logo=naver&logoColor=white"/>
 
-### DevOps  
+## DevOps  
 ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=flat&logo=apache-tomcat&logoColor=black)
 <img src="https://img.shields.io/badge/Github_Actions-2088FF?style=flat&logo=githubactions&logoColor=white"/> 
 <img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=nginx&logoColor=white"/> <img src="https://img.shields.io/badge/amazonrds-527FFF?style=flat&logo=amazonrds&logoColor=white"/> <img src="https://img.shields.io/badge/amazons3-DD344C?style=flat&logo=amazons3&logoColor=white"/> <img src="https://img.shields.io/badge/Amazonaws-232F3E?style=flat&logo=amazonaws&logoColor=white" /> <img src="https://img.shields.io/badge/Argo-EF7B4D?style=flat&logo=argo&logoColor=white" />
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"/> 
 
-### Tools
+## Tools
 ![Eclipse](https://img.shields.io/badge/Eclipse_IDE-2C2255.svg?style=flat&logo=Eclipse&logoColor=white)
 <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/> 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
@@ -78,5 +78,5 @@ User Scenario를 생각하여 찍은 영상입니다
 
 ---
 
-## You can see how we worked together in
+# You can see how we worked together in
 [![Beez의 노션](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/120px-Notion-logo.svg.png)](https://programming-surfer.notion.site/8d8da7c0069244ad9b069277cc59076d?v=f44198a206f64cfb8b901b6ef4b51775&pvs=4)
