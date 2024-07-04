@@ -18,8 +18,8 @@ Bee전공자들이 모인 Beez입니다!
 | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: |
 | <img src="https://github.com/beezSSG/.github/assets/60279992/88d1979f-ce3f-44cf-a283-f646ea0adbae" width="110px"/> | <img src="https://github.com/beezSSG/.github/assets/60279992/b9907673-12be-4492-b4df-73aef4b01b24" width="110px"/> | <img src="https://github.com/beezSSG/.github/assets/60279992/0c8175ea-6958-4063-abeb-9a1aef8bdd78" width="110px"/> | <img src="https://github.com/beezSSG/.github/assets/60279992/cb9b98c7-1e4b-4727-8684-a33f05c4e17e" width="110px"/> | <img src="https://github.com/beezSSG/.github/assets/60279992/65f858fb-208a-4fa6-afe6-028f8d00b4a2" width="110px"/> | <img src="https://github.com/beezSSG/.github/assets/60279992/42c7cc32-33be-42bf-b7b5-30f4346f970d" width="110px"/> |
 | PM👑<br/> DevOps<br/> Full Stack | DBA / CR<br/> Full Stack | Crawling<br/> Full Stack | UI/UX<br/> Full Stack | PR<br/> Full Stack | Crawling<br/> Full Stack |
-| 서버 설계 및 배포<br/>아키텍처 구축 | DB 관리<br/>코드 리뷰 | 상품 데이터 크롤링 및 관리 | 디자인 소스 제작<br/>디자인 컴펌<br/>프론트엔드 총괄 | 기획 자료 조사<br/>발표 | 매장 데이터 크롤링 |
-| 네이버/구글/카카오 소셜 로그인<br/>메인 홈페이지 | JWT를 활용한 로그인<br/>회원가입<br/>마이페이지<br/>PWA(Firebase기반 PUSH알림)<br/>결제시스템<br/>NaverCloud 챗봇 | 상품 목록 페이지<br/>상품 상세 페이지<br/>거리순 가까운 매장 찾기<br/>매장 재고 보기 | 메인 홈페이지<br/>NaverCloud Map API을 활용한 매장 찾기<br/>서비스 소개 | 점주 페이지<br/>점주 발주 관리 | 관리자 페이지<br/>고객센터<br/>픽업/배달 |
+| 서버 설계 및 배포<br/>아키텍처 구축 | DB 관리<br/>코드 리뷰 | 상품 데이터 크롤링 및 관리 | 디자인 소스 제작<br/>디자인 컴펌<br/>프론트엔드 리더 | 기획 자료 조사<br/>발표 | 매장 데이터<br/>크롤링 |
+|  <ul><li>네이버/구글/카카오<br/>소셜 로그인</li><li>메인 홈페이지</li></ul> | <ul><li>JWT를 활용한<br/>로그인</li><li>회원가입</li><li>마이페이지</li><li>PWA<br/>(Firebase기반 PUSH알림)</li><li>결제시스템</li><li>NaverCloud 챗봇</li></ul> | <ul><li>상품 목록<br/>페이지</li><li>상품 상세<br/>페이지</li><li>거리순 가까운 매장 찾기</li><li>매장 재고 보기</li></ul> | <ul><li>메인 홈페이지</li><li>NaverCloud Map API를 활용한 매장 찾기</li><li>서비스 소개</li></ul> | <ul><li>점주<br/>페이지</li><li>점주 발주 관리</li></ul> | <ul><li>관리자<br/>페이지</li><li>고객센터</li><li>픽업/배달</li></ul> |
 
 ---
 <!-- Table -->
